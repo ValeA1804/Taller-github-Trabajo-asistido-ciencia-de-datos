@@ -68,19 +68,19 @@ Integra datos de múltiples agencias locales (policía, cárceles, hospitales y 
 
 **Lenguaje cominmente usaso**: R,Python y SQL
 
-**Ejemplos de plataformas o aplicaciones que lo usan**: La National Association of Counties
+**Ejemplos de plataformas, entidades u organismos que lo integran**: 
+- Consejo General del Poder Judicial (CGPJ)
+- Fiscalía General del Estado (FGE)
+- Comité Técnico Estatal de la Administración Judicial Electrónica (CTEAJE)
+- Conferencia Sectorial de Justicia
 
-**¿Qué toma en cuenta para el algoritmo?**
-- Historial y frecuencia de ingresos al sistema carcelario local (reincidencia por faltas menores o no violentas).
-- Registros de visitas a salas de urgencias y admisiones hospitalarias.
-- Diagnósticos y antecedentes de tratamiento por salud mental y abuso de sustancias.
-- Uso de refugios para personas sin hogar o servicios de asistencia social.
-- Llamadas y despachos de servicios de emergencia médica (EMS) e interacciones con primeros respondientes.
+**¿Qué datos toma en cuenta?**
+- **Interacciones policiales**: Registros de detenciones, causas de arresto previas, incidentes no delictivos o llamadas por disturbios menores.
+- **Datos de salud y urgencias**: Visitas frecuentes a salas de emergencias (ER) e historial en centros de tratamiento de salud mental o adicciones.
+- **Servicios sociales y de vivienda**: Registros de estancia en albergues para personas sin hogar y asistencia pública.
+- **Factores socioeconómicos y procesales**: Capacidad económica para fianza, nivel de riesgo evaluado en la fase previa al juicio.
 
-## Impacto Social y Económico (Métricas de Éxito)
-* **Reducción de Costos Públicos:** Hubo una disminución grande de gastos en el sistema penitenciario y hospitalario público.
-* **Descongestión Carcelaria:** Reducción de cupos carcelarios destinados a delitos menores asociados a salud mental.
-* **Rehabilitación Efectiva:** Incremento en el porcentaje de personas que se sometieron a tratamiento médico y vivienda comunitaria duradera.
+
 ## Arquitectura del proyecto 
 1. **Almacén de datos (Data warehouse)**
    
@@ -103,4 +103,8 @@ Integra datos de múltiples agencias locales (policía, cárceles, hospitales y 
 > [!NOTE]
 > La información general del proyecto fue sacado de: Ministerio de la Presidencia, Justicia y Relaciones con las Cortes. (s. f.). What is Data-driven Justice? Portal de Datos de Justicia. https://datos.justicia.es/en/what-is-data-driven-justice
 
-
+## Impacto Social y Económico (Métricas de Éxito)
+* **Reducción de Costos Públicos:** Hubo una disminución grande de gastos en el sistema penitenciario y hospitalario público.
+* **Descongestión Carcelaria:** Reducción de cupos carcelarios destinados a delitos menores asociados a salud mental.
+* **Rehabilitación Efectiva:** Incremento en el porcentaje de personas que se sometieron a tratamiento médico y vivienda comunitaria duradera.
+  
