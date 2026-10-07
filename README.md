@@ -4,6 +4,8 @@
 
 Dhanurjay "DJ" Patil (nacido en 1974) es un matemático y científico de la computación estadounidense. Es reconocido como uno de los creadores del término "científico de datos" y como el primer Chief Data Scientist de Estados Unidos (2015–2017), cargo que ocupó en la Oficina de Política Científica y Tecnológica de la Casa Blanca durante el gobierno de Barack Obama.
 
+![FOTO](DJ_Patil.jpeg)
+
 ## Formación
 
 - Pregrado en Matemáticas, Universidad de California, San Diego.
@@ -55,25 +57,21 @@ Dhanurjay "DJ" Patil (nacido en 1974) es un matemático y científico de la comp
 - La ética y la responsabilidad en el uso de datos son centrales.
 
 
-## 1. Sistemas de Recomendación 
+## Proyecto: Data-Driven Justice
 
 **¿En qué consiste?**
 
-Toma en consideración varias métricas y los introduce en un modelo de aprendizaje automático que genera lo que el usuario podría querer ver a continuación.
+Integra datos de múltiples agencias locales (policía, cárceles, hospitales y servicios de salud mental) y los procesa con modelos analíticos para identificar tempranamente a "utilizadores frecuentes" del sistema con necesidades complejas no resueltas. El objetivo es desviar a personas con problemas crónicos de salud mental y adicciones fuera del ciclo penal hacia tratamiento médico y vivienda comunitaria, antes de que vuelvan a ser arrestadas.
 
-**Lenguaje cominmente usaso**: R
+**Lenguaje cominmente usaso**: R,Python y SQL
 
-**Ejemplos de plataformas o aplicaciones que lo usan**: Netflix, Spotify, YouToube.
+**Ejemplos de plataformas o aplicaciones que lo usan**: La National Association of Counties
 
 **¿Qué toma en cuenta para el algoritmo?**
-- La edad
-- los programas vistos anteriormente
-- El género más visto
-- La frecuencia de los programas
+- Historial y frecuencia de ingresos al sistema carcelario local (reincidencia por faltas menores o no violentas).
+- Registros de visitas a salas de urgencias y admisiones hospitalarias.
+- Diagnósticos y antecedentes de tratamiento por salud mental y abuso de sustancias.
+- Uso de refugios para personas sin hogar o servicios de asistencia social.
+- Llamadas y despachos de servicios de emergencia médica (EMS) e interacciones con primeros respondientes.
 
-**Científico de datos que trabaja en esto**: Caitlin Smallwood.
->[!NOTE]
->Esta cientifica de datos la vimos en una exposición en clase.
-
-![FOTO](Caitlin_Smallwood.jpeg)
 
