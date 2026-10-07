@@ -53,3 +53,27 @@ Dhanurjay "DJ" Patil (nacido en 1974) es un matemático y científico de la comp
 - El conocimiento del contexto (salud, justicia, negocio) importa tanto como el código.
 - Comunicar resultados es parte del trabajo.
 - La ética y la responsabilidad en el uso de datos son centrales.
+
+
+## 1. Sistemas de Recomendación 
+
+**¿En qué consiste?**
+
+Toma en consideración varias métricas y los introduce en un modelo de aprendizaje automático que genera lo que el usuario podría querer ver a continuación.
+
+**Lenguaje cominmente usaso**: R
+
+**Ejemplos de plataformas o aplicaciones que lo usan**: Netflix, Spotify, YouToube.
+
+**¿Qué toma en cuenta para el algoritmo?**
+- La edad
+- los programas vistos anteriormente
+- El género más visto
+- La frecuencia de los programas
+
+**Científico de datos que trabaja en esto**: Caitlin Smallwood.
+>[!NOTE]
+>Esta cientifica de datos la vimos en una exposición en clase.
+
+![FOTO](Caitlin_Smallwood.jpeg)
+
