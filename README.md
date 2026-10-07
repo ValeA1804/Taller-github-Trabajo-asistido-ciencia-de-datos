@@ -4,7 +4,11 @@
 
 Dhanurjay "DJ" Patil (nacido en 1974) es un matemático y científico de la computación estadounidense. Es reconocido como uno de los creadores del término "científico de datos" y como el primer Chief Data Scientist de Estados Unidos (2015–2017), cargo que ocupó en la Oficina de Política Científica y Tecnológica de la Casa Blanca durante el gobierno de Barack Obama.
 
-![FOTO](DJ_Patil.jpeg)
+
+<p align="center">
+  <img src="DJ_Patil.jpeg" alt="DJ Patil">
+</p>
+
 
 ## Formación
 
@@ -66,8 +70,6 @@ La iniciativa **Data-Driven Justice (DDJ)** fue impulsada por la Casa Blanca baj
 
 Integra datos de múltiples agencias locales (policía, cárceles, hospitales y servicios de salud mental) y los procesa con modelos analíticos para identificar tempranamente a "utilizadores frecuentes" del sistema con necesidades complejas no resueltas. El objetivo es desviar a personas con problemas crónicos de salud mental y adicciones fuera del ciclo penal hacia tratamiento médico y vivienda comunitaria, antes de que vuelvan a ser arrestadas.
 
-**Lenguaje cominmente usaso**: R,Python y SQL
-
 **Ejemplos de plataformas, entidades u organismos que lo integran**: 
 - Consejo General del Poder Judicial (CGPJ)
 - Fiscalía General del Estado (FGE)
@@ -84,28 +86,46 @@ Integra datos de múltiples agencias locales (policía, cárceles, hospitales y 
 ## Arquitectura del proyecto 
 1. **Almacén de datos (Data warehouse)**
    
-   Es un modelo de colaboración entre administraciones y organizaciones para transferir y obtener datos en un entorno de colaboración y corresponsabilidad.
-   
-   <img width="707" height="326" alt="image" src="https://github.com/user-attachments/assets/dab9f646-9976-4c61-bafe-2d2c9aafe9c6" />
+   Es un modelo de colaboración entre administraciones y organizaciones para transferir y obtener datos en un entorno de colaboración y corresponsabilidad. 
+   <p align="center">
+
+      <img width="707" height="326" alt="image" src="https://github.com/user-attachments/assets/dab9f646-9976-4c61-bafe-2d2c9aafe9c6" />
+   <p/>
 
 2. **Dashboard**
 
-   Un sistema de paneles y aprovechamiento de la información, con visualizaciones y formatos tabulares que permiten la toma de decisiones en políticas públicas basadas en evidencias.
-   
+   Un sistema de paneles y aprovechamiento de la información, con visualizaciones y formatos tabulares que permiten la toma de decisiones en políticas públicas basadas en evidencias. 
+   <p align="center">
    <img width="549" height="249" alt="image" src="https://github.com/user-attachments/assets/0ab9fe85-ea3c-4caf-aaf1-9b49ce3b02d1" />
-
+   <p/>
 3. **Uso de información georreferenciada**
 
    Un módulo de información georreferenciada que permite visualizaciones avanzadas de la información. El sistema de información cubre todo el territorio, llegando hasta el ámbito municipal, y permite      considerar también operaciones avanzadas.
-   
-   <img width="551" height="268" alt="image" src="https://github.com/user-attachments/assets/9c5ebd06-157f-4df7-9c05-34dce106791e" />
+   <p align="center">
+
+      <img width="551" height="268" alt="image" src="https://github.com/user-attachments/assets/9c5ebd06-157f-4df7-9c05-34dce106791e" />
+   <p/>
 
 > [!NOTE]
-> La información de la arquitectura y las imágenes fueron sacadas de: Ministerio de la Presidencia, Justicia y Relaciones con las Cortes. (s. f.). What is Data-driven Justice? Portal de Datos de Justicia. https://datos.justicia.es/en/what-is-data-driven-justice
+> La información general del proyecto fue sacado de: Ministerio de la Presidencia, Justicia y Relaciones con las Cortes. (s. f.). What is Data-driven Justice? Portal de Datos de Justicia. https://datos.justicia.es/en/what-is-data-driven-justice
+
+## Módulos de acción
+
+1. **Integración de datos multisectoriales**: Cruzar información entre departamentos tradicionalmente aislados (justicia penal, salud conductual, urgencias hospitalarias y servicios para personas sin hogar) para identificar a los individuos con mayor frecuencia de interacción y vulnerabilidad.
+
+2. **Herramientas de apoyo y desescalamiento para primeros respondientes**: Proveer información, protocolos y herramientas a la policía y servicios de emergencia para manejar situaciones de crisis y derivar a las personas a proveedores de servicios adecuados en vez del arresto.
+
+3. **Evaluación de riesgo preprocesal (Risk-based assessment)**: Implementar herramientas objetivas fundamentadas en evidencia para determinar el nivel de riesgo procesal, facilitando la libertad condicional segura de personas de bajo riesgo.
 
 ## Impacto Social y Económico (Métricas de Éxito)
 * **Reducción de Costos Públicos:** Hubo una disminución grande de gastos en el sistema penitenciario y hospitalario público.
 * **Descongestión Carcelaria:** Reducción de cupos carcelarios destinados a delitos menores asociados a salud mental.
 * **Rehabilitación Efectiva:** Incremento en el porcentaje de personas que se sometieron a tratamiento médico y vivienda comunitaria duradera.
-> [!NOTE]  
-> Davis, R. L., Austin, R. L., Jr., & Patil, D. (2016, 13 de octubre). Growing number of communities are using data to improve policing and criminal justice. The White House. https://obamawhitehouse.archives.gov/blog/2016/10/13/growing-number-communities-are-using-data-improve-policing-and-criminal-justice
+
+## Referencias
+
+Chartwell Speakers. (s. f.). DJ Patil: Ex Director de Datos de la Casa Blanca. Recuperado el 7 de octubre de 2026, de https://www.chartwellspeakers.com/es/speaker/dj-patil/
+Ministerio de la Presidencia, Justicia y Relaciones con las Cortes. (s. f.). What is Data-driven Justice? Portal de Datos de Justicia. https://datos.justicia.es/en/what-is-data-driven-justice
+World Justice Project. (2026, 18 de mayo). Data-driven justice must start with people’s needs, not case counts: WJP focus note. https://worldjusticeproject.org/news/measuring-people-centered-justice-outcome-indicators
+Wikipedia. (s. f.). DJ Patil. Recuperado el 7 de octubre de 2026, de https://en.wikipedia.org/wiki/DJ_Patil
+
