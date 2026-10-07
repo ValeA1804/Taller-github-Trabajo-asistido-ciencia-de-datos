@@ -125,7 +125,10 @@ Integra datos de múltiples agencias locales (policía, cárceles, hospitales y 
 ## Referencias
 
 Chartwell Speakers. (s. f.). DJ Patil: Ex Director de Datos de la Casa Blanca. Recuperado el 7 de octubre de 2026, de https://www.chartwellspeakers.com/es/speaker/dj-patil/
+
 Ministerio de la Presidencia, Justicia y Relaciones con las Cortes. (s. f.). What is Data-driven Justice? Portal de Datos de Justicia. https://datos.justicia.es/en/what-is-data-driven-justice
+
 World Justice Project. (2026, 18 de mayo). Data-driven justice must start with people’s needs, not case counts: WJP focus note. https://worldjusticeproject.org/news/measuring-people-centered-justice-outcome-indicators
+
 Wikipedia. (s. f.). DJ Patil. Recuperado el 7 de octubre de 2026, de https://en.wikipedia.org/wiki/DJ_Patil
 
