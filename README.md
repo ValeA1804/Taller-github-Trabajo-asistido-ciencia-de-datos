@@ -109,3 +109,9 @@ Integra datos de múltiples agencias locales (policía, cárceles, hospitales y 
 * **Rehabilitación Efectiva:** Incremento en el porcentaje de personas que se sometieron a tratamiento médico y vivienda comunitaria duradera.
 > [!NOTE]  
 > Davis, R. L., Austin, R. L., Jr., & Patil, D. (2016, 13 de octubre). Growing number of communities are using data to improve policing and criminal justice. The White House. https://obamawhitehouse.archives.gov/blog/2016/10/13/growing-number-communities-are-using-data-improve-policing-and-criminal-justice
+
+## Conclusión
+
+El análisis de iniciativas como *Data-Driven Justice*, impulsadas por líderes en la industria como DJ Patil, demuestra que el verdadero valor de la ciencia de datos no existe únicamente en la complejidad técnica de los algoritmos o el código, sino en su capacidad para resolver problemas sociales que afectan a un gran grupo de personas. 
+
+
