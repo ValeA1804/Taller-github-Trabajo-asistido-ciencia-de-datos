@@ -61,7 +61,7 @@ Dhanurjay "DJ" Patil (nacido en 1974) es un matemático y científico de la comp
 
 Toma en consideración varias métricas y los introduce en un modelo de aprendizaje automático que genera lo que el usuario podría querer ver a continuación.
 
-**Lenguaje cominmente usaso**: R
+**Lenguaje cominmente usado**: R
 
 **Ejemplos de plataformas o aplicaciones que lo usan**: Netflix, Spotify, YouToube.
 
