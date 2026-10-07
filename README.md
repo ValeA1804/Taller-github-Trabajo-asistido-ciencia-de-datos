@@ -101,10 +101,11 @@ Integra datos de múltiples agencias locales (policía, cárceles, hospitales y 
    <img width="551" height="268" alt="image" src="https://github.com/user-attachments/assets/9c5ebd06-157f-4df7-9c05-34dce106791e" />
 
 > [!NOTE]
-> La información general del proyecto fue sacado de: Ministerio de la Presidencia, Justicia y Relaciones con las Cortes. (s. f.). What is Data-driven Justice? Portal de Datos de Justicia. https://datos.justicia.es/en/what-is-data-driven-justice
+> La información de la arquitectura y las imágenes fueron sacadas de: Ministerio de la Presidencia, Justicia y Relaciones con las Cortes. (s. f.). What is Data-driven Justice? Portal de Datos de Justicia. https://datos.justicia.es/en/what-is-data-driven-justice
 
 ## Impacto Social y Económico (Métricas de Éxito)
 * **Reducción de Costos Públicos:** Hubo una disminución grande de gastos en el sistema penitenciario y hospitalario público.
 * **Descongestión Carcelaria:** Reducción de cupos carcelarios destinados a delitos menores asociados a salud mental.
 * **Rehabilitación Efectiva:** Incremento en el porcentaje de personas que se sometieron a tratamiento médico y vivienda comunitaria duradera.
-  
+> [!NOTE]  
+> Davis, R. L., Austin, R. L., Jr., & Patil, D. (2016, 13 de octubre). Growing number of communities are using data to improve policing and criminal justice. The White House. https://obamawhitehouse.archives.gov/blog/2016/10/13/growing-number-communities-are-using-data-improve-policing-and-criminal-justice
