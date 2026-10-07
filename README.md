@@ -61,17 +61,21 @@ Dhanurjay "DJ" Patil (nacido en 1974) es un matemático y científico de la comp
 
 **¿En qué consiste?**
 
-Integra datos de múltiples agencias locales (policía, cárceles, hospitales y servicios de salud mental) y los procesa con modelos analíticos para identificar tempranamente a "utilizadores frecuentes" del sistema con necesidades complejas no resueltas. El objetivo es desviar a personas con problemas crónicos de salud mental y adicciones fuera del ciclo penal hacia tratamiento médico y vivienda comunitaria, antes de que vuelvan a ser arrestadas.
+Es un proyecto prioritario para la Administración de Justicia que busca crear una plataforma interadministrativa de datos de acceso abierto. Integra sistemas de información cuantitativa desagregada y georreferenciada de las distintas administraciones y ministerios competentes para facilitar la toma de decisiones y la implementación de políticas públicas basadas en datos y evidencias.
 
 **Lenguaje cominmente usaso**: R,Python y SQL
 
-**Ejemplos de plataformas o aplicaciones que lo usan**: La National Association of Counties
+**Ejemplos de plataformas, entidades u organismos que lo integran**: 
+- Consejo General del Poder Judicial (CGPJ)
+- Fiscalía General del Estado (FGE)
+- Comité Técnico Estatal de la Administración Judicial Electrónica (CTEAJE)
+- Conferencia Sectorial de Justicia
 
-**¿Qué toma en cuenta para el algoritmo?**
-- Historial y frecuencia de ingresos al sistema carcelario local (reincidencia por faltas menores o no violentas).
-- Registros de visitas a salas de urgencias y admisiones hospitalarias.
-- Diagnósticos y antecedentes de tratamiento por salud mental y abuso de sustancias.
-- Uso de refugios para personas sin hogar o servicios de asistencia social.
-- Llamadas y despachos de servicios de emergencia médica (EMS) e interacciones con primeros respondientes.
+**¿Qué toma en cuenta?**
+- Indicadores judiciales y cuantitativos desagregados y refinados conjuntamente entre administraciones.
+- Datos interadministrativos cruzados entre órganos que prestan justicia y otros ministerios colaboradores.
+- Capas de información georreferenciada desagregadas a nivel territorial (con cobertura que llega hasta la escala municipal).
+- Registros integrados en el Data warehouse bajo criterios de corresponsabilidad y colaboración interinstitucional.
+- Métricas orientadas a cuadros de mando (dashboards) para el seguimiento estadístico y el diseño de políticas públicas.
 
 
