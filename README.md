@@ -78,4 +78,26 @@ Es un proyecto prioritario para la Administración de Justicia que busca crear u
 - Registros integrados en el Data warehouse bajo criterios de corresponsabilidad y colaboración interinstitucional.
 - Métricas orientadas a cuadros de mando (dashboards) para el seguimiento estadístico y el diseño de políticas públicas.
 
+## Arquitectura del proyecto 
+1. **Almacén de datos (Data warehouse)**
+   
+   Es un modelo de colaboración entre administraciones y organizaciones para transferir y obtener datos en un entorno de colaboración y corresponsabilidad.
+   
+   <img width="707" height="326" alt="image" src="https://github.com/user-attachments/assets/dab9f646-9976-4c61-bafe-2d2c9aafe9c6" />
+
+2. **Dashboard**
+
+   Un sistema de paneles y aprovechamiento de la información, con visualizaciones y formatos tabulares que permiten la toma de decisiones en políticas públicas basadas en evidencias.
+   
+   <img width="549" height="249" alt="image" src="https://github.com/user-attachments/assets/0ab9fe85-ea3c-4caf-aaf1-9b49ce3b02d1" />
+
+3. **Uso de información georreferenciada**
+
+   Un módulo de información georreferenciada que permite visualizaciones avanzadas de la información. El sistema de información cubre todo el territorio, llegando hasta el ámbito municipal, y permite      considerar también operaciones avanzadas.
+   
+   <img width="551" height="268" alt="image" src="https://github.com/user-attachments/assets/9c5ebd06-157f-4df7-9c05-34dce106791e" />
+
+> [!NOTE]
+> La información general del proyecto fue sacado de: Ministerio de la Presidencia, Justicia y Relaciones con las Cortes. (s. f.). What is Data-driven Justice? Portal de Datos de Justicia. https://datos.justicia.es/en/what-is-data-driven-justice
+
 
