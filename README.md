@@ -43,23 +43,6 @@ Dhanurjay "DJ" Patil (nacido en 1974) es un matemático y científico de la comp
 4. **Comunica y promueve el uso responsable de los datos:** su misión declarada era usar los datos de forma responsable en beneficio de la ciudadanía.
 5. **Ayuda a construir la profesión:** escribió sobre cómo formar equipos de ciencia de datos (*Building Data Science Teams*) y sobre convertir datos en productos (*Data Jujitsu*).
 
-## Relación con el ciclo de un proyecto de datos
-
-| Etapa del ciclo | Ejemplo en su trabajo |
-|---|---|
-| Definir el problema | Mejorar la confianza entre policía y comunidad |
-| Obtener datos | Apertura de datos policiales y genómicos |
-| Analizar y modelar | Identificar patrones en interacciones y tratamientos |
-| Comunicar | Memorandos, informes y charlas públicas |
-| Generar impacto | Nuevos programas y cargos de datos en el gobierno |
-
-## Lecciones para un futuro científico de datos
-
-- Las bases matemáticas y estadísticas son esenciales.
-- El conocimiento del contexto (salud, justicia, negocio) importa tanto como el código.
-- Comunicar resultados es parte del trabajo.
-- La ética y la responsabilidad en el uso de datos son centrales.
-
 
 ## Proyecto: Data-Driven Justice
 
@@ -94,7 +77,7 @@ Integra datos de múltiples agencias locales (policía, cárceles, hospitales y 
 
 2. **Dashboard**
 
-   Un sistema de paneles y aprovechamiento de la información, con visualizaciones y formatos tabulares que permiten la toma de decisiones en políticas públicas basadas en evidencias. 
+   Un sistema de paneles y aprovechamiento de la información, con visualizaciones y formatos tabulares que permiten la toma de decisiones basadas en evidencias. 
    <p align="center">
    <img width="549" height="249" alt="image" src="https://github.com/user-attachments/assets/0ab9fe85-ea3c-4caf-aaf1-9b49ce3b02d1" />
    <p/>
