@@ -78,4 +78,8 @@ Es un proyecto prioritario para la Administración de Justicia que busca crear u
 - Registros integrados en el Data warehouse bajo criterios de corresponsabilidad y colaboración interinstitucional.
 - Métricas orientadas a cuadros de mando (dashboards) para el seguimiento estadístico y el diseño de políticas públicas.
 
+## Impacto Social y Económico (Métricas de Éxito)
+* **Reducción de Costos Públicos:** Hubo una disminución importante de gastos en el sistema penitenciario y hospitalario público.
+* **Descongestión Carcelaria:** Se redujeron los cupos carcelarios que eran destinados a delitos menores asociados a salud mental.
+* **Rehabilitación Efectiva:** Hubo un incremento en el porcentaje de personas derivadas a tratamiento médico y vivienda comunitaria duradera.
 
