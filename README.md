@@ -94,8 +94,13 @@ Es un proyecto prioritario para la Administración de Justicia que busca crear u
 3. **Uso de información georreferenciada**
 
    Un módulo de información georreferenciada que permite visualizaciones avanzadas de la información. El sistema de información cubre todo el territorio, llegando hasta el ámbito municipal, y permite      considerar también operaciones avanzadas.
+## Impacto Social y Económico (Métricas de Éxito)
+* **Reducción de Costos Públicos:** Hubo una grande disminución de gastos en el sistema penitenciario y hospitalario público.
+* **Descongestión Carcelaria:** Hubo una reducción de cupos carcelarios que eran destinados a delitos menores asociados a salud mental.
+* **Rehabilitación Efectiva:** Hubo un gran incremento en el porcentaje de personas derivadas a tratamiento médico y vivienda comunitaria duradera.
    
    <img width="551" height="268" alt="image" src="https://github.com/user-attachments/assets/9c5ebd06-157f-4df7-9c05-34dce106791e" />
+   
 
 > [!NOTE]
 > La información general del proyecto fue sacado de: Ministerio de la Presidencia, Justicia y Relaciones con las Cortes. (s. f.). What is Data-driven Justice? Portal de Datos de Justicia. https://datos.justicia.es/en/what-is-data-driven-justice
