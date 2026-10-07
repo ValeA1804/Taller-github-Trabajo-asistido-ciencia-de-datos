@@ -59,23 +59,26 @@ Dhanurjay "DJ" Patil (nacido en 1974) es un matemático y científico de la comp
 
 ## Proyecto: Data-Driven Justice
 
+## 1. Contexto y Naturaleza del Proyecto
+La iniciativa **Data-Driven Justice (DDJ)** fue impulsada por la Casa Blanca bajo el liderazgo de DJ Patil (Primer Científico de Datos Jefe de EE. UU.) en colaboración con la *National Association of Counties (NACo)*. 
+
 **¿En qué consiste?**
 
-Es un proyecto prioritario para la Administración de Justicia que busca crear una plataforma interadministrativa de datos de acceso abierto. Integra sistemas de información cuantitativa desagregada y georreferenciada de las distintas administraciones y ministerios competentes para facilitar la toma de decisiones y la implementación de políticas públicas basadas en datos y evidencias.
+Integra datos de múltiples agencias locales (policía, cárceles, hospitales y servicios de salud mental) y los procesa con modelos analíticos para identificar tempranamente a "utilizadores frecuentes" del sistema con necesidades complejas no resueltas. El objetivo es desviar a personas con problemas crónicos de salud mental y adicciones fuera del ciclo penal hacia tratamiento médico y vivienda comunitaria, antes de que vuelvan a ser arrestadas.
 
 **Lenguaje cominmente usaso**: R,Python y SQL
 
-**Ejemplos de plataformas, entidades u organismos que lo integran**: 
-- Consejo General del Poder Judicial (CGPJ)
-- Fiscalía General del Estado (FGE)
-- Comité Técnico Estatal de la Administración Judicial Electrónica (CTEAJE)
-- Conferencia Sectorial de Justicia
+**Ejemplos de plataformas o aplicaciones que lo usan**: La National Association of Counties
 
-**¿Qué toma en cuenta?**
-- Indicadores judiciales y cuantitativos desagregados y refinados conjuntamente entre administraciones.
-- Datos interadministrativos cruzados entre órganos que prestan justicia y otros ministerios colaboradores.
-- Capas de información georreferenciada desagregadas a nivel territorial (con cobertura que llega hasta la escala municipal).
-- Registros integrados en el Data warehouse bajo criterios de corresponsabilidad y colaboración interinstitucional.
-- Métricas orientadas a cuadros de mando (dashboards) para el seguimiento estadístico y el diseño de políticas públicas.
+**¿Qué toma en cuenta para el algoritmo?**
+- Historial y frecuencia de ingresos al sistema carcelario local (reincidencia por faltas menores o no violentas).
+- Registros de visitas a salas de urgencias y admisiones hospitalarias.
+- Diagnósticos y antecedentes de tratamiento por salud mental y abuso de sustancias.
+- Uso de refugios para personas sin hogar o servicios de asistencia social.
+- Llamadas y despachos de servicios de emergencia médica (EMS) e interacciones con primeros respondientes.
 
+## Impacto Social y Económico (Métricas de Éxito)
+* **Reducción de Costos Públicos:** Hubo una disminución grande de gastos en el sistema penitenciario y hospitalario público.
+* **Descongestión Carcelaria:** Reducción de cupos carcelarios destinados a delitos menores asociados a salud mental.
+* **Rehabilitación Efectiva:** Incremento en el porcentaje de personas que se sometieron a tratamiento médico y vivienda comunitaria duradera.
 
